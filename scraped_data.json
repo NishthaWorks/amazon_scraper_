@@ -1,0 +1,17 @@
+[[
+    {
+        "Product Name": "Product A",
+        "Product Price": "₹1000",
+        "Sale Discount": "50%",
+        "Best Seller Rating": "4.5",
+        "Ship From": "India",
+        "Sold By": "Amazon",
+        "Rating": "4.8",
+        "Product Description": "A great product",
+        "Number Bought in the Past Month": 1000,
+        "Category Name": "Kitchen",
+        "All Available Images": ["image1.jpg", "image2.jpg"]
+    }
+]
+
+]
